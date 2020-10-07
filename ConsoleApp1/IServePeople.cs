@@ -4,5 +4,8 @@
 	interface IServePeople
 	{
 		void ServePeople();
+		void PayPeople();
 	}
+
+
 }
